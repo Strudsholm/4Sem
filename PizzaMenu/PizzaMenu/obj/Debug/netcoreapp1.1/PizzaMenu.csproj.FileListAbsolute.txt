@@ -1,0 +1,9 @@
+c:\users\joachim\documents\visual studio 2017\Projects\PizzaMenu\PizzaMenu\bin\Debug\netcoreapp1.1\PizzaMenu.deps.json
+c:\users\joachim\documents\visual studio 2017\Projects\PizzaMenu\PizzaMenu\bin\Debug\netcoreapp1.1\PizzaMenu.runtimeconfig.json
+c:\users\joachim\documents\visual studio 2017\Projects\PizzaMenu\PizzaMenu\bin\Debug\netcoreapp1.1\PizzaMenu.runtimeconfig.dev.json
+c:\users\joachim\documents\visual studio 2017\Projects\PizzaMenu\PizzaMenu\bin\Debug\netcoreapp1.1\PizzaMenu.dll
+c:\users\joachim\documents\visual studio 2017\Projects\PizzaMenu\PizzaMenu\bin\Debug\netcoreapp1.1\PizzaMenu.pdb
+c:\users\joachim\documents\visual studio 2017\Projects\PizzaMenu\PizzaMenu\obj\Debug\netcoreapp1.1\PizzaMenu.AssemblyInfo.cs
+c:\users\joachim\documents\visual studio 2017\Projects\PizzaMenu\PizzaMenu\obj\Debug\netcoreapp1.1\PizzaMenu.dll
+c:\users\joachim\documents\visual studio 2017\Projects\PizzaMenu\PizzaMenu\obj\Debug\netcoreapp1.1\PizzaMenu.pdb
+C:\Users\Joachim\documents\visual studio 2017\Projects\PizzaMenu\PizzaMenu\obj\Debug\netcoreapp1.1\PizzaMenu.csprojResolveAssemblyReference.cache
